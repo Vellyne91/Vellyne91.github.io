@@ -5,7 +5,6 @@ subtitle: quick summary
 categories: tech space
 tags: [tech,join,learn]
 ---
-
 1. know the space
 2. Polish relevant IT skills.
 3. Get a certification.
