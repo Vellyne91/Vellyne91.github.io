@@ -45,8 +45,8 @@ copyright: published Work by Vellyne91
 description: >- # we are ready to learn more tech skills and execute it to our level best.
 the more we learn the more we practice the more we increse our expertise.
 
-baseurl: "" https://vellyne91.github.
-url: "" https://vellyne91.github.io/
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: "" # the favicon for your site
 
 # Yat date format
