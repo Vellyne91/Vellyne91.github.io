@@ -13,4 +13,3 @@ tags: [tech, website, certificate]
 5. Network.
 6. Look for entry-level positions.
 7. Polish your interview skills.
-8. 
