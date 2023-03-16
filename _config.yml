@@ -47,7 +47,7 @@ the more we learn the more we practice the more we increse our expertise.
 
 baseurl: "" https://vellyne91.github.
 url: "" https://vellyne91.github.io/
-favicon: "" https://vellyne91.github.io/
+favicon: "" # the favicon for your site
 
 # Yat date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
