@@ -1,12 +1,12 @@
 ---
 layout: post
-title: how i manage to join tech
+title: How i manage to join tech
 subtitle: quick summary
-categories: tech space
-tags: [tech,join,learn]
+categories: Tech space
+tags: [Tech,join,learn]
 ---
 
-##how i manage to join tech
+##How i manage to join tech
 
 1. know the space
 2. Polish relevant IT skills.
