@@ -6,8 +6,6 @@ categories: tech space
 tags: [tech,join,learn]
 ---
 
-##How i manage to join tech
-
 1. know the space
 2. Polish relevant IT skills.
 3. Get a certification.
