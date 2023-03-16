@@ -25,7 +25,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Tech space forever
-email: your-email@domain.com
+email: obierov91@gmail.com
 author: Vellyne
 
 # Copyright setting
@@ -42,14 +42,12 @@ author: Vellyne
 #
 copyright: published Work by Vellyne91
 
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: >- # we are ready to learn more tech skills and execute it to our level best.
+the more we learn the more we practice the more we increse our expertise.
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: "" # the favicon for your site
+baseurl: "" https://vellyne91.github.
+url: "" https://vellyne91.github.io/
+favicon: "" https://vellyne91.github.io/
 
 # Yat date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
