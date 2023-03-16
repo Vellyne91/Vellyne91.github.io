@@ -6,6 +6,7 @@ categories: tech space
 tags: [tech, website, certificate]
 ---
 ##how i manage to join tech
+
 1. know the space
 2. Polish relevant IT skills.
 3. Get a certification.
