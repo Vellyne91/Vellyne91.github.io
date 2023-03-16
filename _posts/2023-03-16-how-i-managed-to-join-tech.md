@@ -1,9 +1,9 @@
 ---
 layout: post
-title: how i manage to join tech
-subtitle: learn tech
+title: how i managed to join tech
+subtitle: quick summary
 categories: tech space
-tags: [tech, website, certificate]
+tags: [tech,join,learn]
 ---
 
 ##how i manage to join tech
