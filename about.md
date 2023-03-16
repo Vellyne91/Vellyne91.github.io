@@ -3,7 +3,7 @@ layout: about
 title: About
 ---
 
-## About
+#About
 
 Hi, nice to meet you.
 
