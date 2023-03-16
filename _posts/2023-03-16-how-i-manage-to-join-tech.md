@@ -1,6 +1,6 @@
 ---
 layout: post
-title: are you interested in tech
+title:how i manage to join tech
 subtitle: learn tech
 categories: tech space
 tags: [tech, website, certificate]
