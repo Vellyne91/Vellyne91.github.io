@@ -1,6 +1,6 @@
 ---
 layout: post
-title: how i managed to join tech
+title: how i manage to join tech
 subtitle: quick summary
 categories: tech space
 tags: [tech,join,learn]
