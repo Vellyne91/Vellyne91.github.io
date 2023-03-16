@@ -5,6 +5,7 @@ subtitle: learn tech
 categories: tech space
 tags: [tech, website, certificate]
 ---
+
 ##how i manage to join tech
 
 1. know the space
