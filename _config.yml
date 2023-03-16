@@ -5,14 +5,14 @@
 # Yet another theme for elegant writers with modern flat style and beautiful
 # night/dark mode.
 #
-# Website: https://github.com/
+# Website: https://github.com/jeffreytse/jekyll-theme-yat
 #
 # You can do anything you want, including projects for your clients, as long
 # as you mention an attribution back (credit links in footer or project).
-# See 
+# See the LICENCE file.
 #
 # This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that.
+# which you are expected to set up once and rarely edit after that  
 #
 # For technical reasons, this file is *NOT* reloaded automatically when you
 # use 'bundle exec jekyll serve'. If you change this file, please restart
@@ -40,7 +40,7 @@ author: Vellyne
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: published Work by Vellyne91
+copyright: published Work by Vellyne91 2023
 
 description: >- # we are ready to learn more tech skills and execute it to our level best.
 the more we learn the more we practice the more we increse our expertise.
